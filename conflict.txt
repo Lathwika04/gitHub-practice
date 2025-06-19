@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "hello from master"
+=======
+"Hello from branch"
+>>>>>>> conflict-branch
